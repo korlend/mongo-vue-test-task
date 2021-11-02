@@ -1,6 +1,8 @@
 
 # Mongo Vue Test Task
 
+Project built on node v17.0.1
+
 By default, frontend is on 8080 port and backend on 1337 port, make sure they are not occupied
 
 ## Installation
